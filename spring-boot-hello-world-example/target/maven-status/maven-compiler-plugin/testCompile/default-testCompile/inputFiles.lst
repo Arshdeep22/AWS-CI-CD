@@ -1,0 +1,14 @@
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/spike/HamcrestMatchersTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/business/SomeBusinessTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/data/ItemRepositoryTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/spike/JsonAssertTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/spike/AssertJTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/business/SomeBusinessStubTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/controller/ItemControllerIT.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/business/ItemBusinessServiceTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/controller/HelloWorldControllerTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/UnitTestingApplicationTests.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/spike/JsonPathTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/business/SomeBusinessMockTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/business/ListMockTest.java
+/Users/I516386/AWS-CI-CD/spring-boot-hello-world-example/src/test/java/com/in28minutes/unittesting/unittesting/controller/ItemControllerTest.java
