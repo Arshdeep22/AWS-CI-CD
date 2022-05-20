@@ -43,6 +43,7 @@ jobs:
         run: aws s3 cp *.war s3://${{ env.S3BUCKET }}/
 
   test:
+    needs: build
     name: Unit Tests
     runs-on: ubuntu-20.04
     permissions:
@@ -76,7 +77,7 @@ jobs:
         run: aws s3 cp *.war s3://${{ env.S3BUCKET }}/
         
   deploy:
-    needs: build
+    needs: test
     runs-on: ubuntu-latest
     environment: Dev
     permissions:
