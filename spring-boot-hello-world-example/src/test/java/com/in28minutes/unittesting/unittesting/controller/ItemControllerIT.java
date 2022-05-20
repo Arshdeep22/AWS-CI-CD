@@ -19,7 +19,7 @@ public class ItemControllerIT {
 		
 		String response = this.restTemplate.getForObject("/all-items-from-database", String.class);
 		
-		JSONAssert.assertEquals("[]", 
+		JSONAssert.assertEquals("[{rwfsfsf}]", 
 				response, false);
 	}
 

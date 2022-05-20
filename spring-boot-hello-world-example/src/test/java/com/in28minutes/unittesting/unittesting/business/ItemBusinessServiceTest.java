@@ -31,6 +31,6 @@ public class ItemBusinessServiceTest {
 		List<Item> items = business.retrieveAllItems();
 		
 		assertEquals(100, items.get(0).getValue());
-		assertEquals(400, items.get(1).getValue());
+		assertEquals(40000, items.get(1).getValue());
 	}
 }
